@@ -11,8 +11,7 @@ jdk:
 script:
   - jdk_switcher use oraclejdk8
 
-before_install:
-npm test
+
 
 before_cache:
   - rm -f  $HOME/.gradle/caches/modules-2/modules-2.lock
