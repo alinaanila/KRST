@@ -40,7 +40,7 @@ public class test5 {
 			/**
 			 * tests -выходное значение.
 			 */
-			float tests= (float)0.60;
+			float tests= (float)0.80;
 			/**
 			   * итоговая проверка, tests и result1 сравниваются на равенство.
 			   */
